@@ -6,7 +6,7 @@ Metadata elements, such as link, meta, title, and style, typically go inside the
 
 Here's an example of a page's layout:
 
-```
+``` html
 <!DOCTYPE html>
 <html>
   <head>
